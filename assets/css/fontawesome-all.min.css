@@ -3082,6 +3082,12 @@
     content: "\f3ff"
 }
 
+.fa-tiktok::before {
+    content: "\e07b";
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+}
+
 .fa-times:before {
     content: "\f00d"
 }
